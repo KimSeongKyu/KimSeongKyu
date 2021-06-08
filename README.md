@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/sun9u_n6uns/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/KimSeongKyu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://programming-is-art.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T_T_Story-E34F26?style=flat-square&logo=&logoColor=white"/></a>
-  <a href="malito:kskyu610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kskyu610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <br><br><br>
 </div>
 <h1>🔧Tech Stacks🔧</h1>
