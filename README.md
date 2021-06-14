@@ -15,10 +15,10 @@
 <div>
   Tech Stacks I've used more than once...<br><br>
   <strong>[Front End] </strong>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/ style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue_js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue_js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><br>
   <strong>[Machine Learning]</strong>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/><br>
   <strong>[Window Application] </strong>
   <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dot-Net&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br>
   <strong>[System Software] </strong>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/><br>
