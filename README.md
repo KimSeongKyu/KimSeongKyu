@@ -3,6 +3,7 @@
 병아리🐣 **Java 백앤드 개발자**입니다.<br><br>
 👨‍💻 현재 **Modern Java, Spring, TDD, Clean Code**를 공부하고 있습니다.<br><br>
 🙏 저의 좌우명은 **Happy Thanks**(행복하고 감사하자) 입니다.<br><br>
+🏃‍♂️ 2021.07.01(목) - 1일 1커밋 시작!!!<br><br>
 <h1> 📢About Me📢 </h1>
 <div>
   <a target="_blank" href="https://www.instagram.com/sun9u_n6uns/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
