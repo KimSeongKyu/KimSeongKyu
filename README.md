@@ -25,7 +25,7 @@ And my motto is **Happy 😄, Thanks** 🙏
   <img src="https://img.shields.io/badge/-MapReduce-black?style=flat-square&logo=Apache"/>
 </div>
 
-#### DB & PlatForm & infrastructure
+#### DB & PlatForm & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HBase-red?style=flat-square&logo=Apache"/>
