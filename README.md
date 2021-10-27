@@ -2,11 +2,15 @@
 Currently, I'm interested in **Modern Java**, **Clean Code** and **Spring** 🤔
   
 I hope to develop software to make a better tommorrow. 🌈  
-And my motto is **Happy, Thanks** 🙏  
+And my motto is **Happy 😄, Thanks** 🙏  
   
 ---
 
-### 📢About Me📢
+### 📢About Me📢  
+**Ajou University**: (2014.03 ~ 2021.02) 👨‍🎓  
+**SSAFY 5th**: (2021.01 ~ now) 📘  
+[**S**amsung **S**oftware **A**cademy **F**or **Y**outh]
+
 <a target="_blank" href="https://programming-is-art.tistory.com/"><img src="https://img.shields.io/badge/T_Blog-E34F26?style=flat-square&logo=&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/sun9u_n6uns/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a target="_blank" href="mailto:kskyu610@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  
